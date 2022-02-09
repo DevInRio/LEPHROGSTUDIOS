@@ -12,8 +12,8 @@
   visibility: hidden;
   min-width: 250px;
   margin-left: -125px;
-  background-color: #333;
-  color: #fff;
+  background-color: #7C7C7C;
+  color: #FFFFFF;
   text-align: center;
   border-radius: 2px;
   padding: 16px;
