@@ -1,7 +1,6 @@
 <html>
 <body>
   
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -54,7 +53,7 @@
 
 <button onclick="myFunction()">Click For a message</button>
 
-<div id="snackbar">Some text some message..</div>
+<div id="snackbar">MONKEY🐒</div>
 
 <script>
 function myFunction() {
