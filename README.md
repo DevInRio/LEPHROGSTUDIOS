@@ -78,7 +78,8 @@ function myFunction() {
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxA82GXmrZ3o9u1AMzuqUMOnZfGRopiGbN91Uy3myo4BVFd13PMd-7wmk0x2AOeLoaYk:https://image.shutterstock.com/z/stock-photo-lazy-monkey-on-a-tree-on-sunny-day-1360374683.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="333" height="533">
 
  
-<h2>Cooper a QT</h2>
+<h2>Cooper a ultra QT
+  Callb is a mega QT</h2>
 
 </body>
 
