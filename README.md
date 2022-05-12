@@ -77,7 +77,7 @@ function myFunction() {
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pYvqAHvivnZ-1LicWGTNRYxSLkbcI2xQ:https://i1.pickpik.com/photos/91/813/116/monkey-gibbon-balance-rope-preview.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="1920" height="576">
 
  
-<h2>Cooper a QT But, Jaden is A Mega CUTIE</h2>
+<h2>Cooper a QT But, Calleb is A Mega CUTIE</h2>
 
 </body>
 
