@@ -76,6 +76,8 @@ function myFunction() {
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNZQZNjwEaoVdXQvum_oRRORGdZDxuirnBg:https://www.maxpixel.net/static/photo/1x/Animal-Primate-Soda-Bottle-Monkey-Mammal-Drink-6466207.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="1920" height="576">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/SwiralTestav.gif" alt="MONKEY WITH FOREST" width="1920" height="576">
 
+ 
+<h2>Cooper a QT 🥵</h2>
 
 </body>
 
