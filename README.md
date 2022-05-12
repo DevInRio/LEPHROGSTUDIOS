@@ -78,7 +78,7 @@ function myFunction() {
 
  
 <h2>Cooper a QT 🥵</h2>
-
+</html>
 </body>
 
 
