@@ -54,7 +54,7 @@
 <body>
 
 
-<button onclick="myFunction()">Click For a message</button>
+<button onclick="myFunction()">Click For a MONKEY🐒</button>
 
 <div id="snackbar">MONKEY🐒</div>
 
