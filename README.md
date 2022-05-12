@@ -73,7 +73,7 @@ function myFunction() {
   
   
 <h2>MONKEY ART</h2>
-<img src="https://cdn.discordapp.com/attachments/887962015040147486/941035873938599976/FOREST_WITH_MONKEY.png" alt="MONKEY WITH FOREST" width="1920" height="576">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNZQZNjwEaoVdXQvum_oRRORGdZDxuirnBg:https://www.maxpixel.net/static/photo/1x/Animal-Primate-Soda-Bottle-Monkey-Mammal-Drink-6466207.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="1920" height="576">
 
 </body>
 </html>
