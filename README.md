@@ -79,7 +79,7 @@ function myFunction() {
 
  
 <h2>Cooper a ultra QT
-  Callb is a mega QT</h2>
+  Calleb is a mega QT</h2>
 
 </body>
 
