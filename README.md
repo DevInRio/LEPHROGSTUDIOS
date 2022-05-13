@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <title>LEPHROGSTUDIOS</title>
 <meta content="Embed Title" property="og:title" />
@@ -66,7 +66,7 @@
 
 
   <button class="button button1">Socials</button>
-  <form action="#" method="post" target="_blank" >
+  <form>
 
     <button formaction="https://discord.com/invite/Fj389ScUFz"  class="button button2">Discord</button>
     
