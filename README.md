@@ -2,7 +2,7 @@
 
 <title>LEPHROGSTUDIOS</title>
 <meta content="Embed Title" property="og:title" />
-<meta content="Idk it has my discord invite" property="og:description" />
+<meta content="Epic monkey Pics" property="og:description" />
 <meta content="https://embed.com/this-is-the-site-url" property="og:url" />
 <meta content="https://live-production.wcms.abc-cdn.net.au/20bef573e36cc4d1305bfc14a937291d?impolicy=wcms_crop_resize&cropH=1067&cropW=800&xPos=0&yPos=67&width=862&height=1149" property="og:image" />
 <meta content="#43B581" data-react-helmet="true" name="theme-color" />
