@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<body style="background-color:#242424;">
+<body style="background-color:#2478bd;">
   
   
 <html>
