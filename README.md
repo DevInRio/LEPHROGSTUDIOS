@@ -79,7 +79,7 @@ function myFunction() {
 <img src="Monke drip.jpeg" width="1920" height="576">
 <img src="dadrip.jpeg" width="1920" height="576">
 <img src="steve.jpeg" width="1920" height="576">
-
+<img src="Screenshot 2021-05-20 at 2.44.35 PM.png" width="1920" height="576">
  
 <h2>Cooper a QT 🥵</h2>
 
