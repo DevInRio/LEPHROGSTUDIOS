@@ -77,6 +77,7 @@ function myFunction() {
 <img src="download.jpg" width="1920" height="576">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Primate_%283009900665%29.jpg" width="1920" height="576">
 <img src="Monke drip.jpeg" width="1920" height="576">
+<img src="dadrip.jpeg" width="1920" height="576">
 
  
 <h2>Cooper a QT 🥵</h2>
