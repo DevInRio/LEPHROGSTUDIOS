@@ -12,7 +12,7 @@
   visibility: hidden;
   min-width: 250px;
   margin-left: -125px;
-  background-color: #0000ffff;
+  background-color: transparent;
   color: #FFF;
   text-align: center;
   border-radius: 2px;
