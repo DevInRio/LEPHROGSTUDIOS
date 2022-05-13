@@ -81,7 +81,11 @@ function myFunction() {
 <img src="steve.jpeg" width="1920" height="576">
 <img src="Screenshot 2021-05-20 at 2.44.35 PM.png" width="1920" height="576">
 <img src="Screenshot 2021-03-10 at 1.53.06 PM.png" width="1920" height="576">
-  <video src="https://www.youtube.com/embed/GlOQnsVOa2o">
+  
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/GlOQnsVOa2o">
+</iframe>
+
  
   
   
