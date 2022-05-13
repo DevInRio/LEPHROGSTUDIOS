@@ -20,8 +20,8 @@
   position: fixed;
   z-index: 1;
   left: 50%;
-  bottom: 540px;
-  font-size: 60px;
+  bottom: 30px;
+  font-size: 100px;
 }
 
 #snackbar.show {
