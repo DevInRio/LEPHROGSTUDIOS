@@ -56,7 +56,7 @@
 
 <button onclick="myFunction()">Click For a MONKEY🐒</button>
 
-<div id="snackbar">MONKEY🐒</div>
+<div id="snackbar">Monke drip.jpg</div>
 
 <script>
 function myFunction() {
