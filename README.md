@@ -56,7 +56,7 @@
 
 <button onclick="myFunction()">Click For a MONKEY🐒</button>
 
-<div id="snackbar">Monke drip.jpg</div>
+<div id="snackbar">🐒</div>
 
 <script>
 function myFunction() {
@@ -76,6 +76,7 @@ function myFunction() {
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNZQZNjwEaoVdXQvum_oRRORGdZDxuirnBg:https://www.maxpixel.net/static/photo/1x/Animal-Primate-Soda-Bottle-Monkey-Mammal-Drink-6466207.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="1920" height="576">
 <img src="download.jpg" width="1920" height="576">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Primate_%283009900665%29.jpg" width="1920" height="576">
+<img src="Monke drip.jpg" width="1920" height="576">
 
  
 <h2>Cooper a QT 🥵</h2>
