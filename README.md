@@ -1,72 +1,84 @@
-<title>TESTING</title>
-<meta content="Embed Title" property="og:title" />
-<meta content="Epic monkey Pics" property="og:description" />
-<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
-<meta content="https://live-production.wcms.abc-cdn.net.au/20bef573e36cc4d1305bfc14a937291d?impolicy=wcms_crop_resize&cropH=1067&cropW=800&xPos=0&yPos=67&width=862&height=1149" property="og:image" />
-<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+<html>
+<body>
 
-<style>
-    .button1 {
-    border-radius: 2px;
-    border-color: aliceblue;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-
-
-  .button2 {
-    border-radius: 2px;
-    border-color: aliceblue;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    
-  }
-
-  .button1 {background-color: #de7233; } 
+<body style="background-color:#242424;">
   
-  .button2 {background-color: #de7233;} 
-
-
-
-  .LOGO {
-  background-image: url("LEPHROGSTUDIOS.png");
-  background-size: 250px;
-  background-position: center;
-  width: 300px;
-  height: auto;
   
-}
-
-  
-</style>
 <html>
 <head>
-  <title>LEPHROG STUDIOS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #FFF;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+</style>
 </head>
 <body>
 
-    <body style="background-color:#f26818;">
 
+<button onclick="myFunction()">Click For a MONKEY🐒</button>
 
-        <div class="LOGO">
+<div id="snackbar">MONKEY🐒</div>
 
+<script>
+function myFunction() {
+  var x = document.getElementById("snackbar");
+  x.className = "show";
+  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+}
+</script>
 
-  <button class="button button1">Socials</button>
-  <form>
+</body>
+</html>
 
-    <button formaction="https://discord.com/invite/Fj389ScUFz"  class="button button2">Discord</button>
-    
-  </form>
   
+  
+  
+<h2>DA FANTA MONKEY🐒</h2> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNZQZNjwEaoVdXQvum_oRRORGdZDxuirnBg:https://www.maxpixel.net/static/photo/1x/Animal-Primate-Soda-Bottle-Monkey-Mammal-Drink-6466207.jpg&usqp=CAU" alt="MONKEY WITH FOREST" width="1920" height="576">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/SwiralTestav.gif" alt="MONKEY WITH FOREST" width="1920" height="576">
+
+ 
+<h2>Cooper a QT 🥵</h2>
+
+</body>
+
+
