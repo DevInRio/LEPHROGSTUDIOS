@@ -1,6 +1,4 @@
-
-
-<title>LEPHROGSTUDIOS</title>
+<title>TESTING</title>
 <meta content="Embed Title" property="og:title" />
 <meta content="Epic monkey Pics" property="og:description" />
 <meta content="https://embed.com/this-is-the-site-url" property="og:url" />
